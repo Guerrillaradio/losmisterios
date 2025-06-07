@@ -1,5 +1,5 @@
               
-<p>$$\color{green}$$los misteriosS
+<p>los misterios
                                            
 <p>
 <div><font color="#00ff00"></font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div>
