@@ -10,9 +10,6 @@
 <a href="https://archive.org/details/living-micsur-con-benjamn-labatut-escritor"><div><font color="#00ff00">Living Micsur con Benjamin Labatut, escritor</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div>
 <a href="https://archive.org/details/03.-3o-encuentros-mundos-por-venir.-dialogo-con-benjamin-labatut"><div><font color="#00ff00">3er encuentros mundos por venir- dialogo con Benjamin Labatut</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div>
 <a href="https://archive.org/details/charla-casul-con-benjamin-labatut-maniac"><div><font color="#00ff00">Charla Casul con Benjamin Labatut. Maniac</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div>
-  
 <p>
 <p>
-<p>  
-  
 <a href="https://guerrillaradio.github.io/Kurt_Godel/"><div><font color="#00ff00">铀</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div></a>
