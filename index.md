@@ -37,5 +37,5 @@
 <a href="https://archive.org/details/charla-casul-con-benjamin-labatut-maniac"><div><font color="#00ff00">Charla Casul con Benjamin Labatut. Maniac</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div>
 <p>
 <p>
-<a href="https://guerrillaradio.github.io/Kurt_Godel/"><div><font color="#00ff00">铀</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div>
+<a href="https://guerrillaradio.github.io/Kurt_Godel/"><div><font color="#00ff00">铀</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div></a>
 <a href="https://guerrillaradio.github.io/el_ruido_de_fondo_de_la_existencia/"><div><font color="#00ff00">.</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div></a>
